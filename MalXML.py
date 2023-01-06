@@ -1,11 +1,35 @@
 import xml.etree.ElementTree as ET
+import requests
 
-tree = ET.parse('animelist_1672058399_-_4491121.xml')
+#reterieve season.
+api_url = "https://api.jikan.moe/v4/seasons/2022/Winter"
+response = requests.get(api_url)
+
+response.json()
+#convert this to file
+
+
+tree = ET.parse('animelist Copy.xml')
 
 root = tree.getroot()
 
 totalscore = 0
 count = 0
+
+class animeScore:
+    
+    def __init__(self, name, score):
+        self.name = name
+        self.score = score
+        #self.season = season
+    
+    def getName(self):
+        return str(self.name)
+
+    def getScore(self):
+        return str(self.score)
+
+animelist = []
 
 for child in root.findall('anime'):
     name = child.find('series_title').text
@@ -17,7 +41,15 @@ for child in root.findall('anime'):
     if "2022" in startdate and score != "0" and status == "Completed":
         totalscore += int(score)
         count += 1
-        print(name, score)
+        animelist.append(animeScore(name, score))
 
-print (totalscore, count)
-print(totalscore / count)
+animelist.sort(key = lambda x: int(x.score),  reverse=True)
+
+print()
+for i in animelist:
+    print(i.getScore() + " | " + i.getName())
+
+print() 
+print("TotalScore : " + str(totalscore))
+print("Count : " + str(count))
+print("Average Score : " + str(totalscore / count))
