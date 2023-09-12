@@ -1,29 +1,31 @@
 import xml.etree.ElementTree as ET
 import requests
-import json
+import time
 
-#reterieve season.
+#Request Function into JSON
+def getRequest(url):
+     return requests.get(url).json()
 
-api_url = "https://api.jikan.moe/v4/seasons/2023/Winter"
-response = requests.get(api_url)
-seasonJson = response.json()
-totalPage = seasonJson['pagination']['last_visible_page']
+#Test Variable
+seasons = ["Winter","Spring","Summer","Fall"]
 
 seasonList = []
-for x in range(1,totalPage+1):
-    api_url = "https://api.jikan.moe/v4/seasons/2023/Winter?page=" + str(x)
-    response = requests.get(api_url)
-    seasonJson = response.json()
-    for i in range (0,len(seasonJson['data'])):
-        seasonList.append(seasonJson['data'][i]['title'])
+for s in seasons:
 
-print("Season List Len")
-print(len(seasonList))
-print("--------------------")
-#convert this to file
+    #reterieve total page
+    api_url = "https://api.jikan.moe/v4/seasons/2022/" + s
+    totalPage = getRequest(api_url)['pagination']['last_visible_page']
 
-tree = ET.parse('animelist.xml')
-root = tree.getroot()
+    #get all in season
+    for x in range(1,totalPage+1):
+        api_url = "https://api.jikan.moe/v4/seasons/2022/"+ s + "?page=" + str(x)
+        seasonJson = getRequest(api_url)
+        for i in range (0,len(seasonJson['data'])):
+            seasonList.append(seasonJson['data'][i]['title'])
+    time.sleep(5)
+
+#Read MAL XML
+root = ET.parse('animelist.xml').getroot()
 totalscore = 0
 count = 0
 
@@ -39,19 +41,17 @@ class animeScore:
 
     def getScore(self):
         return str(self.score)
-
-
+    
     
 animelist = []
-
 for child in root.findall('anime'):
     name = child.find('series_title').text
     score = child.find('my_score').text
-    startdate = child.find("my_start_date").text
-    enddate = child.find("my_finish_date").text
+    #startdate = child.find("my_start_date").text
+    #enddate = child.find("my_finish_date").text
     status = child.find("my_status").text
     
-    if name in seasonList and score != "0" and status == "Completed":
+    if name in seasonList and score != "0" and (status == "Completed" or status =="Watching"):
         totalscore += int(score)
         count += 1
         animelist.append(animeScore(name, score))
