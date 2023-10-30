@@ -4,7 +4,21 @@
 		 Version 1.1.0
 		-->
 		
-		<myanimelist>	
+		<myanimelist>
+		
+			<myinfo>
+				<user_id>4491121</user_id>
+				<user_name>Helvetia_Witch</user_name>
+				<user_export_type>1</user_export_type>
+				<user_total_anime>1694</user_total_anime>
+				<user_total_watching>21</user_total_watching>
+				<user_total_completed>1037</user_total_completed>
+				<user_total_onhold>19</user_total_onhold>
+				<user_total_dropped>4</user_total_dropped>
+				<user_total_plantowatch>613</user_total_plantowatch>
+			</myinfo>
+		
+		
 				<anime>
 					<series_animedb_id>52034</series_animedb_id>
 					<series_title><![CDATA["Oshi no Ko"]]></series_title>
@@ -2190,32 +2204,6 @@
 				</anime>
 			
 				<anime>
-					<series_animedb_id>53881</series_animedb_id>
-					<series_title><![CDATA[Arknights: Fuyukomori Kaerimichi]]></series_title>
-					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
-					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
-					<my_rated></my_rated>
-					<my_score>0</my_score>
-					<my_storage></my_storage>
-					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
-					<my_comments><![CDATA[]]></my_comments>
-					<my_times_watched>0</my_times_watched>
-					<my_rewatch_value></my_rewatch_value>
-					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[]]></my_tags>
-					<my_rewatching>0</my_rewatching>
-					<my_rewatching_ep>0</my_rewatching_ep>
-					<my_discuss>1</my_discuss>
-					<my_sns>default</my_sns>
-					<update_on_import>0</update_on_import>
-				</anime>
-			
-				<anime>
 					<series_animedb_id>50205</series_animedb_id>
 					<series_title><![CDATA[Arknights: Reimei Zensou]]></series_title>
 					<series_type>TV</series_type>
@@ -2229,6 +2217,32 @@
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
 					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>53881</series_animedb_id>
+					<series_title><![CDATA[Arknights: Touin Kiro]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>8</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>4</my_watched_episodes>
+					<my_start_date>2023-10-07</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>5</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Watching</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -3180,7 +3194,7 @@
 				<anime>
 					<series_animedb_id>49469</series_animedb_id>
 					<series_title><![CDATA[Beastars Final Season]]></series_title>
-					<series_type>Unknown</series_type>
+					<series_type>ONA</series_type>
 					<series_episodes>0</series_episodes>
 					<my_id>0</my_id>
 					<my_watched_episodes>0</my_watched_episodes>
@@ -4117,7 +4131,7 @@
 					<series_animedb_id>55894</series_animedb_id>
 					<series_title><![CDATA[Bokura no Ameiro Protocol]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
 					<my_watched_episodes>0</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
@@ -4535,14 +4549,14 @@
 					<series_type>TV</series_type>
 					<series_episodes>11</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>8</my_watched_episodes>
+					<my_watched_episodes>11</my_watched_episodes>
 					<my_start_date>2023-07-15</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2023-09-21</my_finish_date>
 					<my_rated></my_rated>
 					<my_score>9</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -4637,7 +4651,7 @@
 					<series_animedb_id>50583</series_animedb_id>
 					<series_title><![CDATA[Buta no Liver wa Kanetsu Shiro]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
 					<my_watched_episodes>0</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
@@ -5079,7 +5093,7 @@
 					<series_animedb_id>52079</series_animedb_id>
 					<series_title><![CDATA[Cardfight!! Vanguard: will+Dress Season 3]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>13</series_episodes>
 					<my_id>0</my_id>
 					<my_watched_episodes>0</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
@@ -7653,16 +7667,16 @@
 					<series_animedb_id>55644</series_animedb_id>
 					<series_title><![CDATA[Dr. Stone: New World Part 2]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>11</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
+					<my_watched_episodes>3</my_watched_episodes>
+					<my_start_date>2023-10-14</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>6</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
+					<my_status>Watching</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -10387,14 +10401,14 @@ Why are you all sitting on your helmets so that we don't get our balls blown off
 					<series_type>TV</series_type>
 					<series_episodes>13</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>10</my_watched_episodes>
+					<my_watched_episodes>13</my_watched_episodes>
 					<my_start_date>2023-06-26</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2023-09-18</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>7</my_score>
+					<my_score>5</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -11555,16 +11569,16 @@ Why are you all sitting on your helmets so that we don't get our balls blown off
 					<series_animedb_id>47160</series_animedb_id>
 					<series_title><![CDATA[Goblin Slayer II]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
+					<my_watched_episodes>4</my_watched_episodes>
+					<my_start_date>2023-10-07</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>8</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
+					<my_status>Watching</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -12602,6 +12616,32 @@ Why are you all sitting on your helmets so that we don't get our balls blown off
 					<my_finish_date>2017-08-25</my_finish_date>
 					<my_rated></my_rated>
 					<my_score>7</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>54902</series_animedb_id>
+					<series_title><![CDATA[Gundam Build Metaverse]]></series_title>
+					<series_type>ONA</series_type>
+					<series_episodes>3</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>3</my_watched_episodes>
+					<my_start_date>2023-10-06</my_start_date>
+					<my_finish_date>2023-10-28</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>3</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
 					<my_status>Completed</my_status>
@@ -14074,6 +14114,32 @@ Why are you all sitting on your helmets so that we don't get our balls blown off
 				</anime>
 			
 				<anime>
+					<series_animedb_id>39894</series_animedb_id>
+					<series_title><![CDATA[Hibike! Euphonium 3]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>0</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>35678</series_animedb_id>
 					<series_title><![CDATA[Hibike! Euphonium Movie 3: Chikai no Finale]]></series_title>
 					<series_type>Movie</series_type>
@@ -14571,16 +14637,16 @@ Why are you all sitting on your helmets so that we don't get our balls blown off
 					<series_animedb_id>54103</series_animedb_id>
 					<series_title><![CDATA[Hikikomari Kyuuketsuki no Monmon]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
+					<my_watched_episodes>4</my_watched_episodes>
+					<my_start_date>2023-10-08</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>6</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
+					<my_status>Watching</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -15093,14 +15159,14 @@ Why are you all sitting on your helmets so that we don't get our balls blown off
 					<series_type>TV</series_type>
 					<series_episodes>13</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>10</my_watched_episodes>
+					<my_watched_episodes>13</my_watched_episodes>
 					<my_start_date>2023-07-02</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2023-09-24</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>6</my_score>
+					<my_score>3</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -15143,16 +15209,16 @@ Why are you all sitting on your helmets so that we don't get our balls blown off
 					<series_animedb_id>53262</series_animedb_id>
 					<series_title><![CDATA[Hoshikuzu Telepath]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
+					<my_watched_episodes>3</my_watched_episodes>
+					<my_start_date>2023-10-10</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>7</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
+					<my_status>Watching</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -15211,6 +15277,32 @@ Why are you all sitting on your helmets so that we don't get our balls blown off
 					<my_priority>LOW</my_priority>
 					<my_tags><![CDATA[Magical Girl Subaru]]></my_tags>
 					<my_rewatching></my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>56425</series_animedb_id>
+					<series_title><![CDATA[Houkago Shounen Hanako-kun]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>4</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>3</my_watched_episodes>
+					<my_start_date>2023-10-11</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>5</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Watching</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
 					<my_rewatching_ep>0</my_rewatching_ep>
 					<my_discuss>1</my_discuss>
 					<my_sns>default</my_sns>
@@ -16524,14 +16616,14 @@ Ep19]]></my_comments>
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_watched_episodes>12</my_watched_episodes>
+					<my_start_date>2023-09-16</my_start_date>
+					<my_finish_date>2023-10-08</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>7</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -17122,11 +17214,11 @@ Ep19]]></my_comments>
 					<series_type>TV</series_type>
 					<series_episodes>23</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>6</my_watched_episodes>
+					<my_watched_episodes>13</my_watched_episodes>
 					<my_start_date>2023-07-07</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>8</my_score>
+					<my_score>6</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
 					<my_status>Watching</my_status>
@@ -17434,14 +17526,14 @@ Ep19]]></my_comments>
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
+					<my_watched_episodes>4</my_watched_episodes>
+					<my_start_date>2023-10-05</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>8</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
+					<my_status>Watching</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -18209,6 +18301,32 @@ Ep19]]></my_comments>
 				</anime>
 			
 				<anime>
+					<series_animedb_id>50869</series_animedb_id>
+					<series_title><![CDATA[Kami wa Game ni Ueteiru.]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>0</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>41312</series_animedb_id>
 					<series_title><![CDATA[Kami-tachi ni Hirowareta Otoko]]></series_title>
 					<series_type>TV</series_type>
@@ -18626,18 +18744,18 @@ Ep19]]></my_comments>
 			
 				<anime>
 					<series_animedb_id>53040</series_animedb_id>
-					<series_title><![CDATA[Kanojo mo Kanojo 2nd Season]]></series_title>
+					<series_title><![CDATA[Kanojo mo Kanojo Season 2]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
+					<my_watched_episodes>4</my_watched_episodes>
+					<my_start_date>2023-10-07</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>8</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
+					<my_status>Watching</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -18734,14 +18852,14 @@ Ep19]]></my_comments>
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>8</my_watched_episodes>
+					<my_watched_episodes>12</my_watched_episodes>
 					<my_start_date>2023-07-09</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2023-09-30</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>9</my_score>
+					<my_score>8</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -19123,16 +19241,16 @@ KONGOUUUU]]></my_comments>
 					<series_animedb_id>52990</series_animedb_id>
 					<series_title><![CDATA[Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
+					<my_watched_episodes>4</my_watched_episodes>
+					<my_start_date>2023-10-07</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>7</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
+					<my_status>Watching</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -20607,14 +20725,14 @@ KONGOUUUU]]></my_comments>
 					<series_type>TV</series_type>
 					<series_episodes>0</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
+					<my_watched_episodes>4</my_watched_episodes>
+					<my_start_date>2023-10-09</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>4</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
+					<my_status>Watching</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -22711,16 +22829,16 @@ KONGOUUUU]]></my_comments>
 					<series_animedb_id>54492</series_animedb_id>
 					<series_title><![CDATA[Kusuriya no Hitorigoto]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>24</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
+					<my_watched_episodes>4</my_watched_episodes>
+					<my_start_date>2023-10-24</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>9</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
+					<my_status>Watching</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -23346,6 +23464,32 @@ KONGOUUUU]]></my_comments>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
 					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>56352</series_animedb_id>
+					<series_title><![CDATA[Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>0</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -24686,6 +24830,32 @@ KONGOUUUU]]></my_comments>
 				</anime>
 			
 				<anime>
+					<series_animedb_id>54722</series_animedb_id>
+					<series_title><![CDATA[Mahou Shoujo ni Akogarete]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>0</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>36266</series_animedb_id>
 					<series_title><![CDATA[Mahou Shoujo Site]]></series_title>
 					<series_type>TV</series_type>
@@ -24751,6 +24921,32 @@ KONGOUUUU]]></my_comments>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
 					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>50713</series_animedb_id>
+					<series_title><![CDATA[Mahouka Koukou no Rettousei (Zoku-hen)]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>0</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -24868,32 +25064,6 @@ KONGOUUUU]]></my_comments>
 				</anime>
 			
 				<anime>
-					<series_animedb_id>38585</series_animedb_id>
-					<series_title><![CDATA[Mahoutsukai ni Narenakatta Onnanoko no Hanashi.]]></series_title>
-					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
-					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
-					<my_rated></my_rated>
-					<my_score>0</my_score>
-					<my_storage></my_storage>
-					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
-					<my_comments><![CDATA[]]></my_comments>
-					<my_times_watched>0</my_times_watched>
-					<my_rewatch_value></my_rewatch_value>
-					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[]]></my_tags>
-					<my_rewatching>0</my_rewatching>
-					<my_rewatching_ep>0</my_rewatching_ep>
-					<my_discuss>1</my_discuss>
-					<my_sns>default</my_sns>
-					<update_on_import>0</update_on_import>
-				</anime>
-			
-				<anime>
 					<series_animedb_id>35062</series_animedb_id>
 					<series_title><![CDATA[Mahoutsukai no Yome]]></series_title>
 					<series_type>TV</series_type>
@@ -24951,16 +25121,16 @@ KONGOUUUU]]></my_comments>
 					<series_animedb_id>55742</series_animedb_id>
 					<series_title><![CDATA[Mahoutsukai no Yome Season 2 Part 2]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
+					<my_watched_episodes>4</my_watched_episodes>
+					<my_start_date>2023-10-07</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>6</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
+					<my_status>Watching</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -25291,14 +25461,14 @@ KONGOUUUU]]></my_comments>
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>9</my_watched_episodes>
+					<my_watched_episodes>12</my_watched_episodes>
 					<my_start_date>2023-01-08</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2023-09-24</my_finish_date>
 					<my_rated></my_rated>
 					<my_score>3</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -25421,14 +25591,14 @@ KONGOUUUU]]></my_comments>
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>9</my_watched_episodes>
+					<my_watched_episodes>12</my_watched_episodes>
 					<my_start_date>2023-07-04</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2023-09-19</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>6</my_score>
+					<my_score>7</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -25757,16 +25927,16 @@ KONGOUUUU]]></my_comments>
 					<series_animedb_id>53848</series_animedb_id>
 					<series_title><![CDATA[Megumi no Daigo: Kyuukoku no Orange]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>24</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
+					<my_watched_episodes>5</my_watched_episodes>
+					<my_start_date>2023-10-02</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>4</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
+					<my_status>Watching</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -25887,16 +26057,16 @@ KONGOUUUU]]></my_comments>
 					<series_animedb_id>50695</series_animedb_id>
 					<series_title><![CDATA[MF Ghost]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
+					<my_watched_episodes>5</my_watched_episodes>
+					<my_start_date>2023-10-01</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>7</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
+					<my_status>Watching</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -26435,14 +26605,14 @@ KONGOUUUU]]></my_comments>
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>9</my_watched_episodes>
+					<my_watched_episodes>12</my_watched_episodes>
 					<my_start_date>2023-07-05</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2023-09-19</my_finish_date>
 					<my_rated></my_rated>
 					<my_score>7</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -26669,14 +26839,14 @@ KONGOUUUU]]></my_comments>
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>8</my_watched_episodes>
+					<my_watched_episodes>12</my_watched_episodes>
 					<my_start_date>2023-07-10</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2023-09-25</my_finish_date>
 					<my_rated></my_rated>
 					<my_score>9</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -26699,10 +26869,36 @@ KONGOUUUU]]></my_comments>
 					<my_start_date>2023-07-03</my_start_date>
 					<my_finish_date>2023-07-03</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>7</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
 					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>55888</series_animedb_id>
+					<series_title><![CDATA[Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -27613,32 +27809,6 @@ KONGOUUUU]]></my_comments>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
 					<my_status>Completed</my_status>
-					<my_comments><![CDATA[]]></my_comments>
-					<my_times_watched>0</my_times_watched>
-					<my_rewatch_value></my_rewatch_value>
-					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[]]></my_tags>
-					<my_rewatching>0</my_rewatching>
-					<my_rewatching_ep>0</my_rewatching_ep>
-					<my_discuss>1</my_discuss>
-					<my_sns>default</my_sns>
-					<update_on_import>0</update_on_import>
-				</anime>
-			
-				<anime>
-					<series_animedb_id>38082</series_animedb_id>
-					<series_title><![CDATA[Nijuuseiki Denki Mokuroku]]></series_title>
-					<series_type>Unknown</series_type>
-					<series_episodes>0</series_episodes>
-					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
-					<my_rated></my_rated>
-					<my_score>0</my_score>
-					<my_storage></my_storage>
-					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -28565,16 +28735,16 @@ KONGOUUUU]]></my_comments>
 					<series_animedb_id>53300</series_animedb_id>
 					<series_title><![CDATA[Ojou to Banken-kun]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>13</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
+					<my_watched_episodes>5</my_watched_episodes>
+					<my_start_date>2023-10-01</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>3</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
+					<my_status>Watching</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -29112,6 +29282,32 @@ KONGOUUUU]]></my_comments>
 					<series_title><![CDATA[Ookami-san to Shichinin no Nakama-tachi]]></series_title>
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>56175</series_animedb_id>
+					<series_title><![CDATA[Oomuro-ke]]></series_title>
+					<series_type>Movie</series_type>
+					<series_episodes>2</series_episodes>
 					<my_id>0</my_id>
 					<my_watched_episodes>0</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
@@ -29787,16 +29983,16 @@ KONGOUUUU]]></my_comments>
 					<series_animedb_id>54301</series_animedb_id>
 					<series_title><![CDATA[Overtake!]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
+					<my_watched_episodes>5</my_watched_episodes>
+					<my_start_date>2023-10-02</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>6</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
+					<my_status>Watching</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -30369,6 +30565,32 @@ KONGOUUUU]]></my_comments>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
 					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>53680</series_animedb_id>
+					<series_title><![CDATA[Pole Princess!!]]></series_title>
+					<series_type>ONA</series_type>
+					<series_episodes>14</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -31739,14 +31961,14 @@ KONGOUUUU]]></my_comments>
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>10</my_watched_episodes>
+					<my_watched_episodes>12</my_watched_episodes>
 					<my_start_date>2023-07-02</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2023-09-17</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>5</my_score>
+					<my_score>2</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -32229,7 +32451,7 @@ KONGOUUUU]]></my_comments>
 			
 				<anime>
 					<series_animedb_id>16123</series_animedb_id>
-					<series_title><![CDATA[Saki Zenkoku-hen]]></series_title>
+					<series_title><![CDATA[Saki: Zenkoku-hen]]></series_title>
 					<series_type>TV</series_type>
 					<series_episodes>13</series_episodes>
 					<my_id>0</my_id>
@@ -32574,6 +32796,32 @@ KONGOUUUU]]></my_comments>
 					<series_title><![CDATA[Sasami-san@Ganbaranai]]></series_title>
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>54233</series_animedb_id>
+					<series_title><![CDATA[Sasayaku You ni Koi wo Utau]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>0</series_episodes>
 					<my_id>0</my_id>
 					<my_watched_episodes>0</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
@@ -33259,6 +33507,32 @@ KONGOUUUU]]></my_comments>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
 					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>56732</series_animedb_id>
+					<series_title><![CDATA[Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>0</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -34837,14 +35111,14 @@ KONGOUUUU]]></my_comments>
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>8</my_watched_episodes>
+					<my_watched_episodes>12</my_watched_episodes>
 					<my_start_date>2023-07-16</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2023-09-28</my_finish_date>
 					<my_rated></my_rated>
 					<my_score>9</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -36343,16 +36617,16 @@ KONGOUUUU]]></my_comments>
 					<series_animedb_id>52991</series_animedb_id>
 					<series_title><![CDATA[Sousou no Frieren]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>28</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
+					<my_watched_episodes>8</my_watched_episodes>
+					<my_start_date>2023-10-02</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>8</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
+					<my_status>Watching</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -38137,7 +38411,7 @@ KONGOUUUU]]></my_comments>
 					<series_animedb_id>40357</series_animedb_id>
 					<series_title><![CDATA[Tate no Yuusha no Nariagari Season 3]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
 					<my_watched_episodes>0</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
@@ -38503,14 +38777,14 @@ KONGOUUUU]]></my_comments>
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>9</my_watched_episodes>
+					<my_watched_episodes>12</my_watched_episodes>
 					<my_start_date>2023-07-16</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2023-09-24</my_finish_date>
 					<my_rated></my_rated>
 					<my_score>2</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -38771,6 +39045,32 @@ KONGOUUUU]]></my_comments>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
 					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>53580</series_animedb_id>
+					<series_title><![CDATA[Tensei shitara Slime Datta Ken 3rd Season]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>0</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -39100,32 +39400,6 @@ KONGOUUUU]]></my_comments>
 					<series_title><![CDATA[Tiger & Bunny]]></series_title>
 					<series_type>TV</series_type>
 					<series_episodes>25</series_episodes>
-					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
-					<my_rated></my_rated>
-					<my_score>0</my_score>
-					<my_storage></my_storage>
-					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
-					<my_comments><![CDATA[]]></my_comments>
-					<my_times_watched>0</my_times_watched>
-					<my_rewatch_value></my_rewatch_value>
-					<my_priority>LOW</my_priority>
-					<my_tags><![CDATA[]]></my_tags>
-					<my_rewatching>0</my_rewatching>
-					<my_rewatching_ep>0</my_rewatching_ep>
-					<my_discuss>1</my_discuss>
-					<my_sns>default</my_sns>
-					<update_on_import>0</update_on_import>
-				</anime>
-			
-				<anime>
-					<series_animedb_id>37905</series_animedb_id>
-					<series_title><![CDATA[To the Moon]]></series_title>
-					<series_type>Movie</series_type>
-					<series_episodes>1</series_episodes>
 					<my_id>0</my_id>
 					<my_watched_episodes>0</my_watched_episodes>
 					<my_start_date>0000-00-00</my_start_date>
@@ -40558,14 +40832,14 @@ KONGOUUUU]]></my_comments>
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>8</my_watched_episodes>
+					<my_watched_episodes>12</my_watched_episodes>
 					<my_start_date>2023-07-02</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2023-10-02</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>4</my_score>
+					<my_score>5</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -40868,16 +41142,16 @@ KONGOUUUU]]></my_comments>
 					<series_animedb_id>53526</series_animedb_id>
 					<series_title><![CDATA[Uma Musume: Pretty Derby Season 3]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>13</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
+					<my_watched_episodes>4</my_watched_episodes>
+					<my_start_date>2023-10-05</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>8</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
+					<my_status>Watching</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -40922,14 +41196,14 @@ KONGOUUUU]]></my_comments>
 					<series_type>TV</series_type>
 					<series_episodes>13</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>9</my_watched_episodes>
+					<my_watched_episodes>13</my_watched_episodes>
 					<my_start_date>2023-07-06</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2023-09-28</my_finish_date>
 					<my_rated></my_rated>
 					<my_score>8</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -41702,16 +41976,16 @@ PING PONG MOTHERFUCKERS]]></my_comments>
 					<series_animedb_id>53833</series_animedb_id>
 					<series_title><![CDATA[Watashi no Oshi wa Akuyaku Reijou.]]></series_title>
 					<series_type>TV</series_type>
-					<series_episodes>0</series_episodes>
+					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>0</my_watched_episodes>
-					<my_start_date>0000-00-00</my_start_date>
+					<my_watched_episodes>4</my_watched_episodes>
+					<my_start_date>2023-10-03</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>0</my_score>
+					<my_score>8</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Plan to Watch</my_status>
+					<my_status>Watching</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -41730,14 +42004,40 @@ PING PONG MOTHERFUCKERS]]></my_comments>
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>9</my_watched_episodes>
+					<my_watched_episodes>12</my_watched_episodes>
 					<my_start_date>2023-07-11</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2023-09-21</my_finish_date>
 					<my_rated></my_rated>
-					<my_score>6</my_score>
+					<my_score>4</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
+					<series_animedb_id>56701</series_animedb_id>
+					<series_title><![CDATA[Watashi no Shiawase na Kekkon 2nd Season]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>0</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -42740,6 +43040,32 @@ PING PONG MOTHERFUCKERS]]></my_comments>
 				</anime>
 			
 				<anime>
+					<series_animedb_id>53865</series_animedb_id>
+					<series_title><![CDATA[Yozakura-san Chi no Daisakusen]]></series_title>
+					<series_type>TV</series_type>
+					<series_episodes>0</series_episodes>
+					<my_id>0</my_id>
+					<my_watched_episodes>0</my_watched_episodes>
+					<my_start_date>0000-00-00</my_start_date>
+					<my_finish_date>0000-00-00</my_finish_date>
+					<my_rated></my_rated>
+					<my_score>0</my_score>
+					<my_storage></my_storage>
+					<my_storage_value>0.00</my_storage_value>
+					<my_status>Plan to Watch</my_status>
+					<my_comments><![CDATA[]]></my_comments>
+					<my_times_watched>0</my_times_watched>
+					<my_rewatch_value></my_rewatch_value>
+					<my_priority>LOW</my_priority>
+					<my_tags><![CDATA[]]></my_tags>
+					<my_rewatching>0</my_rewatching>
+					<my_rewatching_ep>0</my_rewatching_ep>
+					<my_discuss>1</my_discuss>
+					<my_sns>default</my_sns>
+					<update_on_import>0</update_on_import>
+				</anime>
+			
+				<anime>
 					<series_animedb_id>6586</series_animedb_id>
 					<series_title><![CDATA[Yume-iro Pâtissière]]></series_title>
 					<series_type>TV</series_type>
@@ -42771,14 +43097,14 @@ PING PONG MOTHERFUCKERS]]></my_comments>
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>9</my_watched_episodes>
+					<my_watched_episodes>12</my_watched_episodes>
 					<my_start_date>2023-07-04</my_start_date>
-					<my_finish_date>0000-00-00</my_finish_date>
+					<my_finish_date>2023-09-19</my_finish_date>
 					<my_rated></my_rated>
 					<my_score>3</my_score>
 					<my_storage></my_storage>
 					<my_storage_value>0.00</my_storage_value>
-					<my_status>Watching</my_status>
+					<my_status>Completed</my_status>
 					<my_comments><![CDATA[]]></my_comments>
 					<my_times_watched>0</my_times_watched>
 					<my_rewatch_value></my_rewatch_value>
@@ -43652,7 +43978,7 @@ PING PONG MOTHERFUCKERS]]></my_comments>
 				<anime>
 					<series_animedb_id>36999</series_animedb_id>
 					<series_title><![CDATA[Zoku Owarimonogatari]]></series_title>
-					<series_type>Movie</series_type>
+					<series_type>TV</series_type>
 					<series_episodes>6</series_episodes>
 					<my_id>0</my_id>
 					<my_watched_episodes>6</my_watched_episodes>
@@ -43681,7 +44007,7 @@ PING PONG MOTHERFUCKERS]]></my_comments>
 					<series_type>TV</series_type>
 					<series_episodes>12</series_episodes>
 					<my_id>0</my_id>
-					<my_watched_episodes>6</my_watched_episodes>
+					<my_watched_episodes>9</my_watched_episodes>
 					<my_start_date>2023-07-22</my_start_date>
 					<my_finish_date>0000-00-00</my_finish_date>
 					<my_rated></my_rated>
